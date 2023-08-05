@@ -1,9 +1,11 @@
-Origin: Favware
-Label: Favware
+Origin: Victor Repo
+Label: victor
 Suite: stable
 Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Codename: victor
+Architecture: iphoneos-arm iphoneos-arm64
 Components: main
-Description: Favware - Small cydia repo for Favna's warez
-Icon: file://CydiaIcon.png
+Description: victor Tweaks
+MD5sum: 38C7C9D164C7F844ADDE3D5EFD75B346
+SHA1: 90400A5AC4F21AF9E6517433362609DECF1B0370
+SHA256: BFD32DCC869629C01D3F2CB14A33687FE4E0D7DEF1A5232B5D74A0642DC9B3B4
