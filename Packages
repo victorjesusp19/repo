@@ -5,6 +5,9 @@ Maintainer: test <test@gmail.com>
 Installed-Size: 1.7 KB
 Filename: ./debs/com.host.VersionSwitch_2.0_iphoneos-arm.deb
 Size: 1684
+MD5sum: 41922fa5165ede372bc0b86e2e7c01ce
+SHA1: 23dcdc2285a6acc9173072c9eb7ee491277135ee
+SHA256: 77637d570491a4cff7f6dab3923a9fec877b9b3d95f5bbadac139d936b3c18c7
 Section: Addons
 Description: Simulate a new iOS operating system to activate ICCID on older devices
 Author: test <test@gmail.com>
@@ -17,6 +20,9 @@ Maintainer: test
 Installed-Size: 1.7 KB
 Filename: ./debs/safestdn_1.60 by Hargopalsohal.deb
 Size: 1684
+MD5sum: 41922fa5165ede372bc0b86e2e7c01ce
+SHA1: 23dcdc2285a6acc9173072c9eb7ee491277135ee
+SHA256: 77637d570491a4cff7f6dab3923a9fec877b9b3d95f5bbadac139d936b3c18c7
 Section: Addons
 Description: Safe Shutdown
 Author: test
@@ -29,6 +35,9 @@ Maintainer: test
 Installed-Size: 1.7 KB
 Filename: ./debs/afc2kppless_1.1.8-1.deb
 Size: 1684
+MD5sum: 41922fa5165ede372bc0b86e2e7c01ce
+SHA1: 23dcdc2285a6acc9173072c9eb7ee491277135ee
+SHA256: 77637d570491a4cff7f6dab3923a9fec877b9b3d95f5bbadac139d936b3c18c7
 Section: Addons
 Description:  Apple File Conduit "2"
 Author: test
@@ -41,6 +50,9 @@ Maintainer: test
 Installed-Size: 1.7 KB
 Filename: ./debs/com.ryannair05.cylinder_1.1.1_iphoneos-arm.deb
 Size: 1684
+MD5sum: 41922fa5165ede372bc0b86e2e7c01ce
+SHA1: 23dcdc2285a6acc9173072c9eb7ee491277135ee
+SHA256: 77637d570491a4cff7f6dab3923a9fec877b9b3d95f5bbadac139d936b3c18c7
 Section: Addons
 Description: cylinder
 Author: test
