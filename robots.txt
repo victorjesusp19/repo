@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/robotstxt.html
+Sitemap: https://victorjesusp19.github.io/repo/sitemap.xml
+User-agent: *
+Disallow:
