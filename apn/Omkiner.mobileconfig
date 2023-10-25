@@ -36,7 +36,7 @@
 			<key>PayloadIdentifier</key>
 			<string>custom.proxy.apn</string>
 			<key>PayloadOrganization</key>
-			<string>Bytemobile Europe Ltd</string>
+			<string>Telcel MX Ltd</string>
 			<key>PayloadType</key>
 			<string>com.apple.apn.managed</string>
 			<key>PayloadUUID</key>
@@ -52,7 +52,7 @@
 	<key>PayloadIdentifier</key>
 	<string>proxy</string>
 	<key>PayloadOrganization</key>
-	<string>apple.es</string>
+	<string>Lanubedelcelular</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
